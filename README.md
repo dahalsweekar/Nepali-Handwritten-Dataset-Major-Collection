@@ -35,7 +35,7 @@ year = {2023}
 }
 ```
 
-# Below are the results of text detection after training the TextBoxes model with this dataset.
+# Below are the results of text detection after training with the VGG-16 model.
 
 ![demo_result_1](https://user-images.githubusercontent.com/99968233/231123776-04298aeb-e8f1-427a-a8d3-f2d1ab7c5a69.jpg)
 ![demo_result_2](https://user-images.githubusercontent.com/99968233/231123798-29bf6b0a-0287-4a4a-8694-ecb864c5fdef.jpg)
