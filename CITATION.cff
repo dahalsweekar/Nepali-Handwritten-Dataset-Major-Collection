@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Nepali Handwritten Collection
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'Sweekar '
+    family-names: Dahal
+    email: dahalsweekar@gmail.com
+  - given-names: Saramsh
+    family-names: Gautam
+    email: saramshgautam@gmail.com
+repository-code: >-
+  https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection
+url: >-
+  https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection
+abstract: >-
+  The Handwritten Nepali Dataset Collection is a
+  comprehensive and diverse dataset meticulously curated for
+  the purpose of advancing research and development in
+  Nepali language understanding and recognition.
+keywords:
+  - handwriting
+  - Nepali
+  - Dataset
+  - OCR
+  - text detection
+  - text recognition
+version: '1.0'
+date-released: '2023-07-05'
