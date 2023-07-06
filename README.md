@@ -24,6 +24,17 @@ The collected dataset served as a valuable resource for training and evaluating 
 
 Hence, the researchers' efforts in data collection and preprocessing were instrumental in the success of the research on handwritten text detection. The meticulous approach taken in collecting and annotating the dataset ensured that the models developed were reliable and accurate. The dataset serves as a valuable resource for future research in this field. 
 
+# If you find this repository useful, please cite our work
+```
+@misc{Dahal_Nepali_Handwritten_Collection_2023,
+author = {Dahal, Sweekar  and Gautam, Saramsh},
+month = jul,
+title = {{Nepali Handwritten Collection}},
+url = {https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection},
+year = {2023}
+}
+```
+
 # Below are the results of text detection after training the TextBoxes model with this dataset.
 
 ![demo_result_1](https://user-images.githubusercontent.com/99968233/231123776-04298aeb-e8f1-427a-a8d3-f2d1ab7c5a69.jpg)
