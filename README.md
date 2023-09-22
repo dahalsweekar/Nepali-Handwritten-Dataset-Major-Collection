@@ -110,16 +110,16 @@ year = {2023}
 
 [1] LeCun, Y., Bottou, L., Bengio, Y., Haffner, P.: Gradient-based learning applied to document recognition. Proceedings of the IEEE 86(11), 2278–2324 (1998) 
 
-[2] Graves, A., Liwicki, M., Fern´andez, S., Bertolami, R., Bunke, H., Schmidhuber, J.: A novel connectionist system for unconstrained handwriting recognition. IEEE transactions on pattern analysis and machine intelligence 31(5), 855–868 (2008) 
+[2] Graves, A., Liwicki, M., Fernandez, S., Bertolami, R., Bunke, H., Schmidhuber, J.: A novel connectionist system for unconstrained handwriting recognition. IEEE transactions on pattern analysis and machine intelligence 31(5), 855–868 (2008) 
 
 [3] Shi, B., Bai, X., Yao, C.: An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition. IEEE transactions on pattern analysis and machine intelligence 39(11), 2298–2304 (2016) 
 
 [4] Voigtlaender, P., Doetsch, P., Ney, H.: Handwriting recognition with large multidimensional long short-term memory recurrent neural networks. In: 2016 15th International Conference on Frontiers in Handwriting Recognition (ICFHR). pp. 228–233. IEEE (2016) 
 
-[5] K. C. Santosh and C. Nattee, “Template-based nepali handwritten alphanumeric character recognition,” Thammasat International Journal of Science and Technology (TIJSAT), Thammasat University, Thailand, vol. 12, no. 1, 2007. 
+[5] K. C. Santosh and C. Nattee, “Template-based nepali handwritten alphanumeric character recognitNepaliThammasat International Journal of Science and Technology (TIJSAT), Thammasat University, Thailand, vol. 12, no. 1, 2007. 
 
 [6] Pant, A. K., Panday, S. P., & Joshi, S. R. (2012). Off-line Nepali handwritten character recognition using Multilayer Perceptron and Radial Basis Function neural networks. 2012 Third Asian Himalayas International Conference on Internet 
 
-[7] P. S. Deshpande, L. Malik, and S. Arora, “Fine classification & recognition of hand written devnagari characters with regular expressions & minimum edit distance method,” JCP, vol. 3, no. 5, pp. 11–17, 2008. 
+[7] P. S. Deshpande, L. Malik, and S. Arora, “Fine classification & recognition of handwritten Devanagari characters with regular expressions & minimum edit distance method,” JCP, vol. 3, no. 5, pp. 11–17, 2008. 
 
-[8] S. Arora, D. Bhattacharjee, M. Nasipuri, D. K. Basu, and M. Kundu, “Multiple classifier combination for off-line handwritten devnagari character recognition,” Jun. 30 2010. 
+[8] S. Arora, D. Bhattacharjee, M. Nasipuri, D. K. Basu, and M. Kundu, “Multiple classifier combination for off-line handwritten Devanagari character recognition,” Jun. 30, 2010. 
