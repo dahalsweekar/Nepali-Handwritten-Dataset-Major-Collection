@@ -24,6 +24,16 @@ The collected dataset served as a valuable resource for training and evaluating 
 
 Hence, the researchers' efforts in data collection and preprocessing were instrumental in the success of the research on handwritten text detection. The meticulous approach taken in collecting and annotating the dataset ensured that the models developed were reliable and accurate. The dataset serves as a valuable resource for future research in this field. 
 
+# Below are the results of text detection after training in the DBNet.
+Image 1             |  Image 2    |  Image 3
+:-------------------------:|:------------------------|:--------------------
+![received_610481524530847](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/e258c37d-7151-4262-840d-85439139197a)|![received_532563362328992](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/142e72e9-5e09-4609-828a-6722d66518be)|![received_966052277974189](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/1a5912e0-ea20-4ce8-a2ec-dc974748d504)
+
+# Results
+| Precision | Recall | HMean |
+| ------------- | ------------- | ------------- |
+|91.79|90.69|91.24|
+
 # If you find this repository useful, please cite our work
 ```
 @misc{Dahal_Nepali_Handwritten_Collection_2023,
@@ -35,11 +45,7 @@ year = {2023}
 }
 ```
 
-# Below are the results of text detection after training in the DBNet.
-Image 1             |  Image 2    |  Image 3
-:-------------------------:|:------------------------|:--------------------
-![received_610481524530847](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/e258c37d-7151-4262-840d-85439139197a)|![received_532563362328992](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/142e72e9-5e09-4609-828a-6722d66518be)|![received_966052277974189](https://github.com/dahalsweekar/Nepali-Handwritten-Dataset-Major-Collection/assets/99968233/1a5912e0-ea20-4ce8-a2ec-dc974748d504)
-
+# Citations
 
 [1] LeCun, Y., Bottou, L., Bengio, Y., Haffner, P.: Gradient-based learning applied to document recognition. Proceedings of the IEEE 86(11), 2278–2324 (1998) 
 
