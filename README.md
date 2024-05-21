@@ -44,6 +44,9 @@ url = {https://www.kaggle.com/datasets/sweekardahal/nepali-handwritten-images-fo
 year = {2023}
 }
 ```
+# Appreciation
+Our work was carried on by our friend Rajan Ghimire.
+You can find its implementation here: https://github.com/R4j4n/Nepali-Text-Detection-DBnet
 
 # Citations
 
